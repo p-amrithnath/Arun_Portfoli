@@ -555,7 +555,10 @@ footer span a:hover{
     height:20px;
 
 }
-
+#shadow-host-companion
+{
+    padding:0;
+}
 /* responsive media query start */
 @media (max-width: 1104px) {
     .about .about-content .left img{
